@@ -18,3 +18,13 @@
 - modal（弹窗）
 - ...
 
+基于jquery写的，同时，依赖第三方库 Popper.js和 bootstrap.js
+
+![](https://img-blog.csdnimg.cn/20200530081512499.png)
+
+如上图，第二个js文件包含了 Popper.js
+
+
+使用方式：
+
+- 基于 data-*属性
