@@ -28,3 +28,13 @@
 使用方式：
 
 - 基于 data-*属性
+- 基于 JS API
+
+### Bootstrap 响应式布局
+
+非常精华的部分
+
+![](https://img-blog.csdnimg.cn/20200530082022915.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQyOTcxOA==,size_16,color_FFFFFF,t_70)
+### Bootstrap 定制方法
+
+- 使用CSS同名类覆盖（操作简单但）
